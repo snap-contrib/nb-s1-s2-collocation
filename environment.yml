@@ -1,0 +1,7 @@
+channels:
+- terradue
+- conda-forge
+dependencies:
+- snapista
+- geopandas
+- sentinelsat
